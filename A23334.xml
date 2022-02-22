@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A ioyfull new tidynges of the goodly victory that was sent to the emperour, from the noble Capitayne Marcquis Delgasto shewing how and in what maner all the Fre[n]chme[n] that were in Italy with all theyr captaynes be ouercome and destroyed of the valea[n]t Prince of Salerne : yet another new tidinges, shewyng howe that Barbarossa the great Turkes leuetenat and admiral of the see, is gone out of Fraunce wyth a great army, takyng many noble lordes &amp; galleyes, as ye shall heare hereafter.</title>
+            <author>Vasto, Alfonso Avalos, Marqués del, d. 1546.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1543</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23334</idno>
+            <idno type="STC">STC 977.5</idno>
+            <idno type="STC">ESTC S1517</idno>
+            <idno type="EEBO-CITATION">20190699</idno>
+            <idno type="OCLC">ocm 20190699</idno>
+            <idno type="VID">23782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23334)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1700:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A ioyfull new tidynges of the goodly victory that was sent to the emperour, from the noble Capitayne Marcquis Delgasto shewing how and in what maner all the Fre[n]chme[n] that were in Italy with all theyr captaynes be ouercome and destroyed of the valea[n]t Prince of Salerne : yet another new tidinges, shewyng howe that Barbarossa the great Turkes leuetenat and admiral of the see, is gone out of Fraunce wyth a great army, takyng many noble lordes &amp; galleyes, as ye shall heare hereafter.</title>
+                  <author>Vasto, Alfonso Avalos, Marqués del, d. 1546.</author>
+                  <author>Mayler, John, fl. 1539-1545.</author>
+               </titleStmt>
+               <extent>[48] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By Ihon [sic] Mayler for Ihon [sic] Ghoughe,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1543]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Translated out of Doutche into Englyshe by Ihon Mayler"--Colophon.</note>
+                  <note>Place of imprint from colophon; name of publisher from t.p. verso; date of publication suggested by NUC pre-1956 imprints.</note>
+                  <note>Signatures: A-F⁴.</note>
+                  <note>Imperfect: pages stained with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Italy --  History --  1492-1559.</term>
+               <term>France --  History --  Francis I, 1515-1547.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:23782:1"/>
+            <pb facs="tcp:23782:1" rendition="simple:additions"/>
+            <p>¶A ioyfull new tidynges of the goodly vic<g ref="char:EOLhyphen"/>tory that was ſent to the Empe<g ref="char:EOLhyphen"/>rour, from the noble Capitayne Marcquis delgaſto, ſhewing how and in what maner all the Fre<g ref="char:cmbAbbrStroke">̄</g>ch<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g> that were in Italy with all theyr Captaynes be ouer<g ref="char:EOLhyphen"/>come and deſtroyed of the valea<g ref="char:cmbAbbrStroke">̄</g>t Prince of Salerne.</p>
+            <p>¶ Yet another newe tidin<g ref="char:EOLhyphen"/>ges, ſhewyng howe that Barba<g ref="char:EOLhyphen"/>roſſa the great Turkes Leueten<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Ad<g ref="char:EOLhyphen"/>miral of the ſee, is gone out of Fraunce wyth a great army, takyng many noble Lordes &amp; Galleyes, as ye ſhall heate hereafter.</p>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:23782:2"/>
+            <q>
+               <bibl>¶ Ieremye. ix.</bibl>
+               <p>THe <hi>LORDE</hi> ſayth thus: Let not the wyſe man reioyſe in hys wyſdome, nor the ſtrong ma<g ref="char:cmbAbbrStroke">̄</g> in his ſtrengthe, nether the ritche man in hys rytches: But who ſo wyll reioyſe, lette hym reioyſe in thys, that he vnderſtandeth, and knoweth me: for I am the <hi>LORDE</hi> which do mercy, equyte, and righ<g ref="char:EOLunhyphen"/>teouſenes vpon the earthe.</p>
+            </q>
+            <p>¶ Imprynted in Botulphe lane at the ſygne of the whyte Beare by Ihon May<g ref="char:EOLhyphen"/>ler for Ihon Ghou<g ref="char:EOLhyphen"/>ghe.</p>
+            <p>
+               <g ref="char:leaf">❧</g> 
+               <hi>Cum priuſlegio ad im<g ref="char:EOLhyphen"/>primendum ſolum.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:23782:2"/>
+            <figure>
+               <figDesc>battle scene</figDesc>
+            </figure>
+            <p>
+               <seg rend="decorInit">O</seg>Ur Lorde Ieſu Chriſte y<hi rend="sup">t</hi> ordeyneth al thynges af<g ref="char:EOLhyphen"/>ter his godly wyl, punyſ<g ref="char:EOLhyphen"/>ſhynge the wycked, many and ſundrye wayes, and preſer<g ref="char:EOLhyphen"/>uethe them that feare hym, from all maner of perelles, pluckynge downe the proude men, and exal<g ref="char:EOLhyphen"/>tynge the meake and geueth to al men after ther worckes. Thys
+<pb facs="tcp:23782:3"/>myghty Lord I ſaye hath now of late begonne to poure oute hys plages vpon the Frenche Kynge, as it dayly dothe appeare more &amp; more, and all the cauſe thereof is ſynne &amp; vnrighteouſeneſſe.</p>
+            <p>For lyke as y<hi rend="sup">e</hi> Iſraelites were plaged for y<hi rend="sup">e</hi> ſynne of Dauid ther Kynge, wythe Peſtilence. Alſo be the Frenchmen nowe deſtroyedde and punyſſhed of God the Lorde for ther ſynne, in deſpiſing of god and his word, for the light is now come into the worlde, but men ha<g ref="char:EOLhyphen"/>ue loued darkenes moore then y<hi rend="sup">e</hi> lyght, becauſe theyr dedes be euel neyther wyll they comme to the lyght leſſe theyr deades ſhould be reproued.</p>
+            <p>Nowe when y<hi rend="sup">e</hi> Frenche Kynge conſydered and marked wel that the Emperoure woulde ſet vpon
+<pb facs="tcp:23782:3"/>hym wythe ſtronge hande of the borders of Artoyis and Loreyne. So hath he ymagined and practi<g ref="char:EOLhyphen"/>ſed after his old vſe and cuſtome how &amp; after what waye he ſhould breake this his purpoſe &amp; let hym from it, &amp; to prolonge it as longe as he myght, to the entent that y<hi rend="sup">e</hi> Sommer myght be ſpente or he ſhoulde haue anye power, ſo that the Wynter myght come, when y<hi rend="sup">e</hi> colde and wette ſhould dryue the<g ref="char:cmbAbbrStroke">̄</g> oute of the felde.</p>
+            <p>Now hath the Frenche Kynge thought that he woulde ſet vpon the Emperoure in another coun<g ref="char:EOLhyphen"/>trey farre of to make the Emper. with his armye to get them the<g ref="char:EOLhyphen"/>ther.</p>
+            <p>Whervpon the Frenche Kyng ſente the Dolphyne into Italye, thorowe Sauoye wythe a verye
+<pb facs="tcp:23782:4"/>great Armye.</p>
+            <p>And manye Earles, Lordes, &amp; Knyghtes, as the eldeſt ſonne of Mounſieur devendome, and the eldeſt ſo<g ref="char:cmbAbbrStroke">̄</g>ne of Mounſieur deguiſe and ſuche other, with many Capi<g ref="char:EOLunhyphen"/>taynes, for to deſtroye the Duke<g ref="char:EOLhyphen"/>dome of Myliaene,</p>
+            <p>But God the gyuer of all vic<g ref="char:EOLhyphen"/>tory hath ordeyned it otherwyſe. For as they wente towardes the Mountaynes of Italye, they had great lacke of vytayle ſo that for lake of foode, many of them dyed. And when they came into Italy, ſo dyd they deſtroye al afore them wherby the land ſuſtayned great loſſe, &amp; all thys was done to cauſe the Emperour to come thether &amp; helpe the Italyans, &amp; that in the meane tyme the Sommer ſhould be ſpent and the Wynter to come
+<pb facs="tcp:23782:4"/>on them or they ſhulde beginne to do any thyng. Now the Frenche<g ref="char:EOLhyphen"/>men beinge in Italy wrought all the meanes the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id to take tow<g ref="char:EOLhyphen"/>nes and Caſtells<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And ſo they beſeged a towne called Caringi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, the which they ſtormed then<g ref="char:EOLhyphen"/>kyng to wynne it and to deſtroye it. But when they marked that it colde not be wonne they thought to haue famyſhed them. But the gentyll Lorde &amp; noble Capitaine of the Emperoure called Marcquis delgaſto, hath withe all ſpede gathered an Armye to defend the Emperoures countrye. And is come agaynſt the Dolfine, to the ſame for to vittayle it, for y<hi rend="sup">e</hi> fre<g ref="char:cmbAbbrStroke">̄</g>ch<g ref="char:EOLhyphen"/>men had layd ſeage to it afore his comynge the ſpare of .v. wekes ſo that all that whyle no vyttayle colde come to the towne.</p>
+            <pb facs="tcp:23782:5"/>
+            <p>Wherfore thys noble Capitai<g ref="char:EOLhyphen"/>ne Marcquis delgaſto entending to ſocoure, helpe and reſcue the towne with al his youre &amp; ſtre<g ref="char:cmbAbbrStroke">̄</g>gth and to vy<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ple it.</p>
+            <p>Therfore he mente his awn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> perſone in the forwarde. And the mayne battel were the moſt part hye douchmen, whych played the men as hereafter ſhalbe declared.</p>
+            <p>Nowe when they were come neate to the towne &amp; in the ſyght of the frencht Armey, ſo ſhot they at the frenche ooſt moſt fearſly, ſo that Marcquisdelgaſto with his Sod yars (the which were mooſt part Spanyardes and Italians) ran fearſly vppon the frencheme<g ref="char:cmbAbbrStroke">̄</g> and fought longe with them, and at the laſte the Frenchemen we<g ref="char:EOLhyphen"/>re putte to flyghte and all theyr fyrſte Armye (that is to ſaye La<g ref="char:EOLhyphen"/>uangarde)
+<pb facs="tcp:23782:5"/>be all ſlayne.</p>
+            <p>And when the mayne batayle of the Frenchemen were fled, then the Italians and Spaniardes be<g ref="char:EOLunhyphen"/>gon to gather theyr ſpoyle amo<g ref="char:cmbAbbrStroke">̄</g>ge them that were ſlayne and ſo we<g ref="char:cmbAbbrStroke">̄</g>t cleane out of theyr araye, &amp; thou<g ref="char:EOLhyphen"/>ghte of no nother thyng but eue<g ref="char:EOLhyphen"/>ry ma<g ref="char:cmbAbbrStroke">̄</g>, for hymſelfe ſeakyng after ryches, thynkynge that the felde was all wonne, wher vppon the Frenchemen ſeynge and percey<g ref="char:EOLhyphen"/>uynge the Italians and Span<g ref="char:EOLhyphen"/>yardes oute of ther araye and or<g ref="char:EOLhyphen"/>der, gatheryng the ſpoyle. So the mayne battell of the Frencheme<g ref="char:cmbAbbrStroke">̄</g> came on them withal the haſt the cold, to ſleye them as they dyd, for the Spanyardes and Italyans ſeyng them come on the<g ref="char:cmbAbbrStroke">̄</g> ſo fearſly dyd theyr beſt to come in theyr a<g ref="char:EOLhyphen"/>raye, and battayle agayne but y<hi rend="sup">e</hi>
+               <pb facs="tcp:23782:6"/>Frenchme<g ref="char:cmbAbbrStroke">̄</g> came on the<g ref="char:cmbAbbrStroke">̄</g> ſo ſtro<g ref="char:cmbAbbrStroke">̄</g>gly defendyng them that with great force the kept the Spanyardes &amp; Italyans that they cold come in no aray, nor battayle &amp; ſo the for<g ref="char:EOLhyphen"/>ward of Marcquis delgaſto were conquered &amp; ouercome, the cauſe ther of was theyr couetouſenes &amp; for lacke of better takinge hede. And Marcquis delgaſto was ſore wounded, and when he ſawe that the Frenchemen had gotten the vpper hand, ſo recolde he backe w<hi rend="sup">t</hi> his halbardes to his great Army y<hi rend="sup">e</hi> whych were moſt part Douche men.</p>
+            <p>And the Frenchemen folowed hym but whe<g ref="char:cmbAbbrStroke">̄</g> his Armye ſaw him comming, beynge theyr chefe Ca<g ref="char:EOLhyphen"/>pitayne and ſore wounded, the o<g ref="char:EOLhyphen"/>pened theyr Leger and receaued him into them and cloſedde theyr
+<pb facs="tcp:23782:6"/>Leger agayne, and ſought forthe wythe agaynſte the Frenchemen which aſſayled them fearſlye, &amp; ſo the recolde backe a lytyl and a ly<g ref="char:EOLhyphen"/>tyll ſyghtynge with the Frenche men tyl they were come to y<hi rend="sup">e</hi> next towne, and lyke valyaunt men of warre ſpite of the Frenchemen, brought they theyr Capitayne in to it and ſo ſaued his lyfe.</p>
+            <p>Of thys feate the Frenchemen were not a lytyll glad, thynkyng that they welde ouer runne al I<g ref="char:EOLhyphen"/>taly &amp; wyn the towne alſo of Ca<g ref="char:EOLhyphen"/>ringiaen by kepyng theyr vittai<g ref="char:EOLhyphen"/>les from them, and the Frenchme<g ref="char:cmbAbbrStroke">̄</g> dyd much myſchefe in all parties wher they came. And ther is an Earle in Italy, called Picus Mi<g ref="char:EOLhyphen"/>randula which fauoureth y<hi rend="sup">e</hi> fre<g ref="char:cmbAbbrStroke">̄</g>ch<g ref="char:EOLunhyphen"/>men greatlye, and ſo he tooke vp many Souldiers to the nomber
+<pb facs="tcp:23782:7"/>of .xxiiij. M. to helpe the Frenche<g ref="char:EOLunhyphen"/>men with all, he thynkyng y<hi rend="sup">t</hi> they ſhuld wyn all Italy.</p>
+            <p>Now when Marcquis delgaſto hard y<hi rend="sup">t</hi> they robbed, burnt, toke &amp; deſtroyed the land, the<g ref="char:cmbAbbrStroke">̄</g> he cauſed a great nomber of men of warre to be made redye, and ſent them, be<g ref="char:EOLhyphen"/>ynge of greate power wythe hys principal Capitaine of Salerne. Whe<g ref="char:cmbAbbrStroke">̄</g> this great Armye was come in to the Dukedome of Myllaene for to fight with the Frenchmen, and to ſtoppe them of theyr myſ<g ref="char:EOLhyphen"/>chefe &amp; deſtruccio<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> they daily did to the countreye. And ſo it happe<g ref="char:EOLhyphen"/>ned y<hi rend="sup">t</hi> on the .iiij. day of Iune laſt paſt at .v. of y<hi rend="sup">e</hi> clock at after none came the Prynce of Salerne w<hi rend="sup">t</hi> his people in goodly order, and be<g ref="char:EOLhyphen"/>ing all redy to fyght, ſet vpon the Frenchemen betwene two Cow<g ref="char:EOLhyphen"/>nes
+<pb facs="tcp:23782:7"/>named Noule and Sarauair Now the chefe Capitayne of the Frenchemen, was one Peter De<g ref="char:EOLhyphen"/>ſtroſſy, brother to the wyfe of the Dolphyne of Fraunce this Cap<g ref="char:EOLhyphen"/>tayne made vnto his people afore they ſhuld fyght a great oracio<g ref="char:cmbAbbrStroke">̄</g>, in couraging the<g ref="char:cmbAbbrStroke">̄</g> after the beſt wyſe he colde and holdened the<g ref="char:cmbAbbrStroke">̄</g> to fight manfullye thorowe whyche they were greatlye encouraged to the battayle. And when they came and mette together they foughte longe tyme ſo that moche people were ſlayne on bothe the ſydes.</p>
+            <p>Yet at the laſt God gaue the vic<g ref="char:EOLhyphen"/>torye to the noble Prince of Sa<g ref="char:EOLhyphen"/>lerne ſo that he wan the felde, and with force of Armes ouercame y<hi rend="sup">e</hi> frenchemen, ſo y<hi rend="sup">t</hi> the mooſt parte of them were ſlayne. And manye Lordes, Earles, Capitaynes and
+<pb facs="tcp:23782:8"/>gentil men were taken preſoners as hereafter foloweth.</p>
+            <p>¶ Fyrſte of all the chefe Lord of the felde of the Frenchemen, y<hi rend="sup">t</hi> is to ſayz Peter Deſtroſſy the Dol<g ref="char:EOLhyphen"/>phynes brother in lawe whiche is wounded in flyeng awaye wyth a halfe haecke &amp; after that is taken.</p>
+            <p>¶ The Earle George Marti<g ref="char:EOLhyphen"/>ningo Breſſiano a Capitayne of greate myghte is alſo taken and wounded in the face.</p>
+            <p>¶ The Earle Hercules his bro<g ref="char:EOLhyphen"/>ther is alſo taken the whiche had great rytches with him.</p>
+            <p>¶ The Earle Iohn Iacques Triulſio is alſo taken.</p>
+            <p>¶ The Lorde Camillo Triul<g ref="char:EOLhyphen"/>lio Capitayne of .iii. vanes or ſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>derdes of ſoldiers is alſo taken.</p>
+            <p>¶ The Lorde Cornelles, Ben<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illa the chefe and Leuetena<g ref="char:cmbAbbrStroke">̄</g>t
+<pb facs="tcp:23782:8"/>of Peter Deſtroſſy is alſo taken.</p>
+            <p>¶ The Lorde Ipolitus Leue<g ref="char:EOLhyphen"/>tenant of the Earle of Mirandu<g ref="char:EOLhyphen"/>la is alſo taken.</p>
+            <p>¶ The Lorde Ipolito Gonza<g ref="char:EOLhyphen"/>ga Capiteine general of the Lord vnder Peter de Stroſſy is alſo taken.</p>
+            <p>¶ The Earle of Pitillano ſo<g ref="char:cmbAbbrStroke">̄</g>ne is ſlayne.</p>
+            <p>¶ The Lord Vliſſes Orſinos eldeſt ſonne of Peter Colo<g ref="char:cmbAbbrStroke">̄</g>na Ca<g ref="char:EOLhyphen"/>pitayne was ſlayne fyghtynge.</p>
+            <p>¶ The Lorde Charle his bro<g ref="char:EOLhyphen"/>ther is taken.</p>
+            <p>¶ The Lord Roberte Malate<g ref="char:EOLhyphen"/>ſta Captayne is alſo taken.</p>
+            <p>¶ The Lorde Flaminio Orſi<g ref="char:EOLhyphen"/>no, Capitayne is alſo taken.</p>
+            <p>¶ The Lord Camilio, Oroſino Captayne is alſo taken.</p>
+            <p>¶ The Duke of Somme is al<g ref="char:EOLhyphen"/>ſo
+<pb facs="tcp:23782:9"/>taken and ſore hurt in his face.</p>
+            <p>Yet alſo is ther taken a man of great perſonage of the houſe of y<hi rend="sup">t</hi> Viſtonce of Milaene.</p>
+            <p>Yet more .lx. Captaynes wyth .lx. ſta<g ref="char:cmbAbbrStroke">̄</g>darde bearers be alſo taken.</p>
+            <p>Ite<g ref="char:cmbAbbrStroke">̄</g> yet more two hundred Ge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tyllmen of the whych the poureſt of them is able to brynge for hys Raunſome two. M. Crounes.</p>
+            <p>Here throw is it good to be mer<g ref="char:EOLunhyphen"/>ked y<hi rend="sup">t</hi> a myghty Armye hath bene one w<hi rend="sup">t</hi> another, where as al theſe ge<g ref="char:cmbAbbrStroke">̄</g>tleme<g ref="char:cmbAbbrStroke">̄</g> be take<g ref="char:cmbAbbrStroke">̄</g> beſide thoſe why<g ref="char:EOLhyphen"/>che beſlaine, y<hi rend="sup">t</hi> which be yet vnkno<g ref="char:EOLunhyphen"/>wen. For there be of the Frenche<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g> ſlayne to the no<g ref="char:cmbAbbrStroke">̄</g>ber of .xxx. M. men beſyde thoſe whych be taken and thoſe whyche be wounded the which is a greate nomber. Here by maye we well marke that God our Lorde is allwayes withe the
+<pb facs="tcp:23782:9"/>righteous, and vnto the meke he ſheweth his louinge kyndnes, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the proude &amp; the vnrigteous wyl he brynge lowe: Therfore let all men geue thankes vnto the Lorde for al his benefites, which he ſhe<g ref="char:EOLhyphen"/>wed to all them that feareth him, and that it woulde pleaſe hym to kepe and defende both the Empe<g ref="char:EOLhyphen"/>roure. With our mooſt excellente prince Kynge Henry the ryght of that name the which hathe alſo a great co<g ref="char:cmbAbbrStroke">̄</g>pany of people lyenge now among hys enemy<g ref="char:EOLhyphen"/>es the whych Ieſu pre<g ref="char:EOLunhyphen"/>ſerue ſaue and kepe from all euell. AMEN.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:23782:10"/>
+            <head>¶ The copye of the goyng away of the chefe Cap<g ref="char:EOLhyphen"/>tayne of the Turke called Barbaroſſa, onte of Fraunce.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter this Barbaroſſa, vn<g ref="char:EOLunhyphen"/>derſtode how that the ali<g ref="char:EOLhyphen"/>antes and Leages of ma<g ref="char:EOLhyphen"/>ny Prynces, was broken, which helde with Fraunce, &amp; they had forſaken to ayde the Frenche Kynge, as the Duke of Cleaue on the one ſyde, and the Duke of Lo<g ref="char:EOLhyphen"/>reyne of the other partye, whiche was neuer afore againſt the fren<g ref="char:EOLhyphen"/>che Kynge, but becauſe the Kyn<g ref="char:EOLhyphen"/>ges deſyre was to deſtroy his cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>trey burnyng vyllages &amp; townes and to bryng it in to great pouer<g ref="char:EOLunhyphen"/>tye, becauſe the Emperoure ſhuld
+<pb facs="tcp:23782:10"/>haue no lodgiſe nor yet fynd any by talles there. Therfore y<hi rend="sup">e</hi> Duke conſyderynge all this, thought it better to holde wythe the Empe<g ref="char:EOLhyphen"/>rour, than to haue thus his coun<g ref="char:EOLhyphen"/>trey deſtroyed. And alſo that the Scots nowe on the other ſyde ha<g ref="char:EOLhyphen"/>uyng to theyr Leage. Now Bar<g ref="char:EOLhyphen"/>baroſſa hearinge al this, thought all men falleth of from the Fren<g ref="char:EOLhyphen"/>che Kynge, wherfore I wyll pro<g ref="char:EOLhyphen"/>uyde for my ſelfe be times and get me awaye. And ſo is Barbaroſſa departyd out of Fraunce &amp; hathe taken hys vyage towardes Tur<g ref="char:EOLhyphen"/>kye, and takynge wyth hym per<g ref="char:EOLhyphen"/>force &amp; wyth ſtrengthe, verye ma<g ref="char:EOLhyphen"/>ny Galleyes once of nomber lade<g ref="char:cmbAbbrStroke">̄</g> with great rytcheſſe, Iewelles &amp; all manner of treaſurye, amonge whych were .vi. of y<hi rend="sup">e</hi> beſt Galleyes
+<pb facs="tcp:23782:11"/>that the Frenche Kynge had. And oute of the reſte of the Gal<g ref="char:EOLhyphen"/>leyes that he woulde not haue w<hi rend="sup">t</hi> hym, he tooke oute al the thynges that was in them, that wolde do him any ſeruyce, as Gonnes, gon pouder, gonſtones, moryſhſpikes, harnes, Helmettes, Halbardes, &amp; ſuche other lyke ordynaunce for warre of all maner ſortes of wea<g ref="char:EOLhyphen"/>pons.</p>
+            <p>And aboue this alſo this Bar<g ref="char:EOLhyphen"/>baroſſa hath taken with hym ma<g ref="char:EOLunhyphen"/>ny pryſoners Lordes &amp; other Ge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tyll men of great byrthe amonge whyche .viij. were men of greate power, and hath alſo taken many Captaynes pryſoners with hym perforce and agenſt theyr wylles for y<hi rend="sup">e</hi> whych ther was made great lamentacion on the borders, and many a heuy hart hathe he made
+<pb facs="tcp:23782:11"/>there. And a boue this he hathe robbed .vij. Vyllages and taken away with him into Turkaye al the people Pryſoners that was therein. Whe<g ref="char:cmbAbbrStroke">̄</g> al this newes came to y<hi rend="sup">e</hi> Prince of Doria, how y<hi rend="sup">e</hi> Bar<g ref="char:EOLunhyphen"/>barus was gone to y<hi rend="sup">e</hi> ſee after this maner, he ſent in al the haſt after hym, hys neve Iohn Doria with xxx. Galleyes, whych were ordey<g ref="char:EOLunhyphen"/>ned and appoynted wyth all ma<g ref="char:EOLhyphen"/>ner of Artyllarye, gonneſhot and other weapons great plenty, and alſo men of Armes, to make that he ſhuld not do any hurte or myſ<g ref="char:EOLhyphen"/>cheſe on the borders of Chriſten<g ref="char:EOLhyphen"/>dome whych they manfully defen<g ref="char:EOLunhyphen"/>ded. For Barbaroſſa had taken his courſe and iourney thorow y<hi rend="sup">e</hi> kyngdome of Cecilie.</p>
+            <p>Thus this Noble Capieayne Doria letted the Turke from do<g ref="char:EOLhyphen"/>ynge
+<pb facs="tcp:23782:12"/>any more hurt to Chriſten<g ref="char:EOLhyphen"/>dome, and hath alſo taken parte of hys Galyes, and chaſed diuers of them, wher of the Emperoure was very glad with al his Lordes and people.</p>
+            <p>Of thys it is euydentlye to be marked that our Lord fyghte the all wayes for all them that feare hym, and turne from al ther wic<g ref="char:EOLhyphen"/>kednes. For to them that feare y<hi rend="sup">e</hi> Lorde, maye no maner yll chaſice but whan they come into tempta<g ref="char:EOLunhyphen"/>cion they ſhalbe delyuered. But the wycked and vngodly whyche hath hardened theyr hertes as an Adamant ſtone and ſtopped theyr eares becauſe the wolde not hea<g ref="char:EOLhyphen"/>re the wordes of God theyr Lord, whiche he hathe ſente into all the world ſo plenteouſly, vnto al ſuch I ſaye he ſendeth his plages and
+<pb facs="tcp:23782:12"/>ſome he ſcattereth among the He then where they be ſolde and en<g ref="char:EOLhyphen"/>treated lyke as they were beaſtes and haue great ſcarſenes both of meate, drynke, and clothe. &amp;c.</p>
+            <p>And ſome he deſtroyeth withe the ſwerd, ſome with honger, ſome w<hi rend="sup">t</hi> Peſtilence, and after this world, they he tormented, wythe euerla<g ref="char:EOLhyphen"/>ſtynge fyre, as we may ſe by euy<g ref="char:EOLhyphen"/>dent tokens, of gods fearſe wrath how that he deſtroyed the Sodo<g ref="char:EOLhyphen"/>mytes, and deſtroyed al the world wythe water ſaue Noe and hys chyldren whych ſhuld be an exam<g ref="char:EOLunhyphen"/>ple to all them that lyue vngodly and wythoute the feare of God, leſt they periſhe and be deſtroyed as other haue bene bothe of olde tyme and now of late dayes in I<g ref="char:EOLhyphen"/>taly as you haue harde, wher the Frenche kynge hath loſt the moſt
+<pb facs="tcp:23782:13"/>part of the nobles of hys Realme wyth a great nomber of hys peo<g ref="char:EOLhyphen"/>ple and Artyllary and other ordy<g ref="char:EOLhyphen"/>naunces perteyning to warre, w<hi rend="sup">c</hi> hys Galleyes and other treaſury taken awaye by Barbaroſſa ſo y<hi rend="sup">e</hi> the Frenche kynge hath looſt the mooſt part of his power, thorowe which he may wel mark that god is angry wyth hym, and hath pu<g ref="char:EOLhyphen"/>nyſhed hym for hys deſpyſyng of hys word and for hys wycked ly<g ref="char:EOLhyphen"/>uynge, for what a poyntme<g ref="char:cmbAbbrStroke">̄</g>t lege peace other wyſe that he maketh wyth any prynce is neuer on his party hold nor yet kept. As apart you ſhal heare. For wha<g ref="char:cmbAbbrStroke">̄</g> the Em<g ref="char:EOLhyphen"/>perour began his rayne in the ye<g ref="char:EOLhyphen"/>re of our Lorde a M.CCCCC .xvi. the Emperour ſent his legat to the Frenche Kynge for to make an euerlaſtynge Peace betwene
+<pb facs="tcp:23782:13"/>them, the which was done couſen<g ref="char:EOLunhyphen"/>ted and fully made on bothe par<g ref="char:EOLhyphen"/>tyes and a ſtrong lege was made on bothe ſydes, whyche was not longe kepte of the Frenchekynge as his maner is, to breake all his couenauntes &amp; to performe none as neare as be can, but went and deſtroyed the Emperous lande &amp; Townes within ſhort ſpace after &amp; deſroyed his countreyes wher he myght or colde, &amp; ſeaſed not to worke ſuch myſchefe tyll that the Emperoure had taken hym pryſo<g ref="char:EOLunhyphen"/>ner a foore Pauien, wher many a man loſt ther lyfe and mooſt py<g ref="char:EOLhyphen"/>tyouſly murdered and drowned, among which the chefe Captayne of Fraunce loſte his lyfe namedde Laydowycus Dela Truuoille w<hi rend="sup">t</hi> many other.</p>
+            <p>And not withſtandynge that
+<pb facs="tcp:23782:14"/>the Emperoure hadde hym Pry<g ref="char:EOLhyphen"/>ſoner, yet wold he not go forth to wyn and deſtroy his lande which he might wel haue done yf he had would, and had therto good occa<g ref="char:EOLunhyphen"/>ſion geuen hym of the Frenche Kynge, to haue taken in much of hys countrey, the which was tha<g ref="char:cmbAbbrStroke">̄</g> eaſye for hym to do, the la<g ref="char:cmbAbbrStroke">̄</g>d being without a heade and gouernoure</p>
+            <p>Butte the Emperoure was ſo good that he (after that he come<g ref="char:EOLhyphen"/>ned of the matter) was contente to heare the treatye of peace the .xiii. daye of Ianuarye the which was concludedde at Madryll in Spaine, and aboue that to make the frendſhyp more greater) hath gyuen hym hys owne ſyſter to be his wife, truſting that after that he ſhulde haue euerlaſtynge peace betwene them durynge theyr ly<g ref="char:EOLhyphen"/>ues.</p>
+            <pb facs="tcp:23782:14"/>
+            <p>But al this notwythſtanding he was not longe in Fraunce a<g ref="char:EOLhyphen"/>gayne but he brake his couenaſi<g ref="char:EOLhyphen"/>tes of peace and would not keaps hys promes, althoughe he hadde bound hymſelfe ſo ſtronge therto as any man myghte, whych was that he ſhuld delyuer to the Em<g ref="char:EOLhyphen"/>perour all the Emperours Lord<g ref="char:EOLhyphen"/>ſhippes townes and lande that he with held in Apulia, Cecilia, Lo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>bardie, Burgon, Flaunders, Ar<g ref="char:EOLhyphen"/>toiſe and Dornicke, vpon al why<g ref="char:EOLhyphen"/>che couenauntes he receaued the Sacramente and made a ſolom oothe, that he ſhuld performe the<g ref="char:cmbAbbrStroke">̄</g> and ſuffer euery prynce to enioye hys owne lande by hym peceably all which he neuer performed, but ſhortlye after in the yeare of oure Lorde a M.D.xxviij. the .xxij.
+<pb facs="tcp:23782:15"/>day of Ianuary y<hi rend="sup">e</hi> frenche Kynge ſente hys Legate to Burgois in Spayne where the Emperours was that ſame tyme &amp; hath made hym there deſyaunce proclaming open warre agaynſte the Empe<g ref="char:EOLhyphen"/>roure bothe to fyre and ſword, w<hi rend="sup">t</hi> mooſt ſpytefull and prowde wor<g ref="char:EOLhyphen"/>des thretenynge hym greuouſlye to the which the Emperoure me<g ref="char:EOLhyphen"/>kelye aunſwered as here after fo<g ref="char:EOLhyphen"/>lowethe.</p>
+            <p>It doth not make me a lytel to maruel, but moch aboue meaſure to wo<g ref="char:cmbAbbrStroke">̄</g>der y<hi rend="sup">t</hi> your lord my priſoner ſomtyme was wyl thus begynne a newe warre agenſt me, the whi<g ref="char:EOLhyphen"/>che I thoughte full lytell that he woulde haue done. It is alſo a ſtraunge thynge to me, to heare nowe thys defyaunce, ſeyng that he warred vpo<g ref="char:cmbAbbrStroke">̄</g> me moore then .vj.
+<pb facs="tcp:23782:15"/>yeares continually without any defyaunce ſendynge. Alſo he kno<g ref="char:EOLhyphen"/>wethe what aunſwere I ſente to him by his Legat that was with me and how I aunſwered to him ſo reaſonable that all men maye perceaue that no faulte is in me.</p>
+            <p>For after the conſyderacion of the concluſion and agreemente y<hi rend="sup">t</hi> we made at Madryl, is very ma<g ref="char:EOLhyphen"/>ny of my ſubiectes taken Priſo<g ref="char:EOLhyphen"/>ners and ſet them in his Gallyes agaynſt all truthe and promyſes made to the contrary, for whyche cauſes ſake I haue taken agayne of hys people pryſoners, nowe yf he wyll delyuer my people free, I ſhall alſo delyuer hys wythoute any fayle &amp; led the<g ref="char:cmbAbbrStroke">̄</g> home ageyne.</p>
+            <p>Let your Kyng are his Legat what aunſwere I made hym at Granaten, and he ſhal well fynde
+<pb facs="tcp:23782:16"/>that I haue done muche better, than I had promyſed to hym at Madrylen.</p>
+            <p>And after that the Emperour had ſpoken theſe wordes he com<g ref="char:EOLhyphen"/>maunded to hys Secretary that he ſhulde be we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l entreated, and y<hi rend="sup">t</hi> they ſhoulde be broughte to theyr lodgyng and that they ſhuld tary for theyr aunſwere, whych thyng they dyd. Now to conſider the ge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tle anſwere of ſo noble an Empe<g ref="char:EOLhyphen"/>rour, to hys enemyes ſpiteful and proude wordes, manye men maye learne to refrayne themſelf from folyſhe haſtynes and raſhe iudge<g ref="char:EOLhyphen"/>ment, by thys man beyng ſo hy in degre &amp; mightye of poure, hauing ſo great a cauſe, and yet doth reco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>pence good for yll but no doubte therbe many men that be muche <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oore prouder of hart then thys
+<pb facs="tcp:23782:16"/>noble Emperoure, whych wyl be ave<g ref="char:cmbAbbrStroke">̄</g>ged for euery trifle, the Lord gyue to all ſuche better grace.</p>
+            <p>Now whyle that the Legat tary<g ref="char:EOLhyphen"/>ed for hys aunſwere, came vnto hym the Emperours chefeſt Se<g ref="char:EOLhyphen"/>cretary named M. Iohn Aleman and delyuered to hym in wryting hys full and ſufficient aunſwere ſayeng heare is the ful aunſwere, go and ſhowe it to youre Kynge where in he ſhall playnlye ſe that he doth fare otherwyſe wyth hys workes, the<g ref="char:cmbAbbrStroke">̄</g> he dyd promis w<hi rend="sup">t</hi> hys wordes at Toleten and Madryll And ſhewe hym that from the be<g ref="char:EOLhyphen"/>gynnynge of hys Kyngedome he neuer ceaſed from warre to ſhed the Chriſten bloud mooſt vnrigh<g ref="char:EOLhyphen"/>teouſlye.</p>
+            <p>Now when al thys came to the Frenche Kyng and had redde the
+<pb facs="tcp:23782:17"/>aunſwere of the Emperoure, he was exceadyngelye full of wrathe and angery therat, ſo that incon<g ref="char:EOLhyphen"/>tinent he begon a newe to warre vppon the Emperour in the yea<g ref="char:EOLhyphen"/>re of oure Lorde a M.D.xxvij. cauſing his ſee robbers and other to do all the myſchefe the coulde both by water and by lande.</p>
+            <p>And when the Emperour ſaw this he dyd his beſt to wythſtand hym &amp; to preſerue his poure ſub<g ref="char:EOLhyphen"/>iectes and becauſe he wold ſtoppe hys tyrany that y<hi rend="sup">e</hi> Chriſten bloud ſhuld not be ſhedde, he ſente to the Frenche Kyng to haue peace and truſe, ſaieng he had ſpilt the chri<g ref="char:EOLhyphen"/>ſtens bloud long I noughe, wher<g ref="char:EOLunhyphen"/>fore he prayed him of truſe, which the Frenche kynge graunted at y<hi rend="sup">e</hi> laſte, and ſo the truſe was procla<g ref="char:EOLhyphen"/>med the fyrſt daye of Iuly. Anno.
+<pb facs="tcp:23782:17"/>Dn<g ref="char:cmbAbbrStroke">̄</g>i. M.D.xxvij. for .viij. yeres Not longe after thys the French Kynge made alyaunce withe the Venecia<g ref="char:cmbAbbrStroke">̄</g>s; to the ente<g ref="char:cmbAbbrStroke">̄</g>t they ſhuld alſo be hurtefull and noyſome to the Emperour; &amp; had conſented, &amp; agreed together, to be ſeage Na<g ref="char:EOLhyphen"/>ples, whiche was in the yeare of our Lorde a M.D.xxix. becauſe they wolde dryue the they wolde dryue the Emperour Emperour oute of Italye. But God dyd or<g ref="char:EOLhyphen"/>deyne it other wyſe, for theyr hole Armye was deſtroyed; ſome tho<g ref="char:EOLhyphen"/>rowe Peſtilence dyed, another part were ſtayne among whyche was the Lorde Lotrechte theyr Chiefeſt Captayne and Lorde of the hoale Armye, wythe many o<g ref="char:EOLhyphen"/>ther ge<g ref="char:cmbAbbrStroke">̄</g>tyl me<g ref="char:cmbAbbrStroke">̄</g> ſo that very few eſ<g ref="char:EOLhyphen"/>caped ageine in to Fraſice: Thus was the frenchemen with al them that toke tyer partes, mooſt ſha<g ref="char:EOLhyphen"/>mefullye
+<pb facs="tcp:23782:18"/>deſtroyedde, where by menne maye well marke it was no nother but the verye plage of God for theyr wycked Imagina<g ref="char:EOLhyphen"/>cions.</p>
+            <p>When the Frenchekynge ſawe thys he held hym more ſtyller the<g ref="char:cmbAbbrStroke">̄</g> to foore, and conſentedde to haue peace and quietnes, wher vpon y<hi rend="sup">e</hi> frenchekynges Mother came to Camerike. An. Dn<g ref="char:cmbAbbrStroke">̄</g>i. M.D.xxix. Whoſe name was Ludouica, and met ther wythe the Emperoures Aunte Lady Margrit, and ther was moued on both ſydes manye wayte and difficultye matters &amp; ſo at the laſt the co<g ref="char:cmbAbbrStroke">̄</g>cluded on both ſydes to haue peace, whyche was proclamed in Camerycke, the .v. daye of Auguſt a M.D.xxix.</p>
+            <p>Now men hoped that this pea<g ref="char:EOLhyphen"/>ce ſhuld continew and not be bro<g ref="char:EOLhyphen"/>ken,
+<pb facs="tcp:23782:18"/>for as moche as the Frenche Kynges Mother had conſented therto and was partly cauſe ther<g ref="char:EOLunhyphen"/>of. But with in ſhorte ſpace ther<g ref="char:EOLunhyphen"/>after that is to ſaye in Anno. M.D.xxxv. When the Emperoure was purpoſed to go warre vpon the Turke, he thinkyng y<hi rend="sup">t</hi> the pea<g ref="char:EOLunhyphen"/>ce ſhuld neuer be broken agayne betwene the frenche Kynge and hym, and alſo preparyng all thyn<g ref="char:EOLunhyphen"/>ges for his Iourney the therward to ſyght agaynſte the Turke the vtter enemye of al Chrinſtendo<g ref="char:cmbAbbrStroke">̄</g>e, and to delyuer the Chriſten Pry<g ref="char:EOLhyphen"/>ſoners whych were in his handes mooſt cruelly handeled, wher vpo<g ref="char:cmbAbbrStroke">̄</g> the Emperour takynge his Iour<g ref="char:EOLunhyphen"/>ney from Spayne towardes A<g ref="char:EOLhyphen"/>fryka, for to putte the Turke to flyght and ſo he dyd and wan the hoole Kyngedome of Tunis and
+<pb facs="tcp:23782:19"/>put Barbaroſſa to flyght y<hi rend="sup">e</hi> which is the mooſt Tyraunte that euer was to the Chriſten people.</p>
+            <p>The frenchekynge markynge that the Emperour was farre of out of hys lande, hys falſhed and diſceyte to declare that laye hyd within him, rayſed a great Army and toke his iourneye towardes Italy and toke the towne Genua with much land, and many other townes he deſtroyed with the cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>treyes rounde aboute them, and burnte Sauoye. The Emperour hearyng thys, is incontynente w<hi rend="sup">t</hi> all ſpede come backe into Italy &amp; draue the kynge out wyth all his Armey. And he made all his wip<g ref="char:EOLhyphen"/>pes in a redynes with all other or<g ref="char:EOLhyphen"/>dinaunce redy agaynſte the next Sommer, to ſet ageane vpon the Turke, the which the frenchkyng had
+<pb facs="tcp:23782:19"/>letted many tymes to ſore for the Emperoure knew well that there was a great leage betwen y<hi rend="sup">e</hi> fre<g ref="char:cmbAbbrStroke">̄</g>ch-Kynge and the Turke, agaynſte hym and all Chriſtendome.</p>
+            <p>What ſhuld a man ſaye to this wycked Kynge, whome the Byſ<g ref="char:EOLhyphen"/>ſhop of Rome callethe the mooſte Chriſten Kynge, but hys deades declare hym to be the mooſte vn-Chriſten Kynge, lyke as the Byſ<g ref="char:EOLhyphen"/>ſhoppe of Romes worckes declare hym to be very Antechriſte. For theſe two, that is to ſay the fre<g ref="char:cmbAbbrStroke">̄</g>ch-Kynge and the Byſſhop of Rome hath taken vpo<g ref="char:cmbAbbrStroke">̄</g> them the name of Chriſten Rulers, but yet ther be nomen moore agaynſte Chriſtes doctrine and his flocke then theſe men are. But the booke of wyſdo<g ref="char:cmbAbbrStroke">̄</g> ſay the. Eccle .xlj. The chyldren of the vngodlye are abhomynable
+<pb facs="tcp:23782:20"/>chyldren; and ſo are they that ke<g ref="char:EOLhyphen"/>pe company with the vngodlye. Thus the french-kinge hath done wyckedly to forſake his God, and hath vaynely Imagyned to truſt vnto the Turke for helpe &amp; ayde, and hath not rather turned hym from hys wycked wayes and dea<g ref="char:EOLhyphen"/>des, vnto the almyghty God, for the man is bleſſedde in deade that hathe his hope and truſt onely in God the Lorde of all Lordes, and kynge of all kynges, for a kyng is not helped onely by his great po<g ref="char:EOLhyphen"/>wer, &amp; a ſtrong man is not delyue red by hys ſtre<g ref="char:cmbAbbrStroke">̄</g>gthe. For it is god y<hi rend="sup">t</hi> geueth y<hi rend="sup">e</hi> victory. Therfore cur<g ref="char:EOLhyphen"/>ſed in any ma<g ref="char:cmbAbbrStroke">̄</g> or i<g ref="char:cmbAbbrStroke">̄</g> any creature. But bleſſed &amp; happy is y<hi rend="sup">e</hi> ma<g ref="char:cmbAbbrStroke">̄</g>, whoſe hel<g ref="char:EOLunhyphen"/>pe is y<hi rend="sup">e</hi> God of Iacob, and whoſe hope ſta<g ref="char:cmbAbbrStroke">̄</g>deth vpo<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> Lord his god.</p>
+            <pb facs="tcp:23782:20"/>
+            <p>Nowe to proceade forthe. The Emperour w<hi rend="sup">t</hi>in ſhorte ſpare after in the yeare a M.D.xxvi. came to Rome in Lent, where he recea<g ref="char:EOLhyphen"/>ued the holy Sacramente, &amp; waſ<g ref="char:EOLhyphen"/>ſhed the feate of .xii. poure men a alſo gaue them foode and rytche gyftes both golde a ſyluer, wher<g ref="char:EOLhyphen"/>at his enemyes marueled, to le y<hi rend="sup">e</hi> goodnes of the Emperoure. And the morow after the Emperoure came before the Frenche Embaſſa<g ref="char:EOLunhyphen"/>doure and Legat and hath ſpoke<g ref="char:cmbAbbrStroke">̄</g> theſe wordes followynge openly that all men myght heare them.</p>
+            <p>I beleue and know of a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that it is not knowen, howe that I haue alwayes is ſpoken and labo<g ref="char:EOLhyphen"/>red for peace, and quietnes that we ſhuld be of one mynde al Chri<g ref="char:EOLhyphen"/>ſtendome together, and that ther ſoulde be no warre amonge the
+<pb facs="tcp:23782:21"/>Chriſten, but that we ſhulde al to<g ref="char:EOLunhyphen"/>gether warre vpo<g ref="char:cmbAbbrStroke">̄</g> the Turke the enemy of our Lorde Ieſu Chriſt. And it is alſo well knowen howe that this Fraunces the Frenche king, hath bene alwaies froward and ouertwart, vſynge allwayes no nother againſt me nor againſt my forefathers, but craft and diſ<g ref="char:EOLhyphen"/>ſimulacio<g ref="char:cmbAbbrStroke">̄</g>, as agaynſt Marimilia<g ref="char:cmbAbbrStroke">̄</g> &amp; lykewyſe Fardina<g ref="char:cmbAbbrStroke">̄</g>ders, to whom he neuer kept any promes that he made to the<g ref="char:cmbAbbrStroke">̄</g>. For Marimilianus laſt wordes were theſe, when that he made peace the laſt tyme wyth the frenchekynge: Behold (ſayth he this is now y<hi rend="sup">e</hi> leauenth tyme y<hi rend="sup">t</hi> I haue made peace wyth him, the whyche neuer kepte anye of hys promyſes.</p>
+            <p>Alſo it is wel knowe<g ref="char:cmbAbbrStroke">̄</g>, how that he dyd breake his promes at Na<g ref="char:EOLhyphen"/>ples
+<pb facs="tcp:23782:21"/>and at Nauerne contrarye to hys oothe and couenauntes. and what confederacion and aly<g ref="char:EOLhyphen"/>aunce that he hath made wyth y<hi rend="sup">e</hi> Turke, and howe he ayded hym when we were withe oure greate Army in Hungry, where as God byd gyue vs great vyctory, forwe put to flyght an excedyng greate nomber of Turkes, and alſo flew manye of them. And ſo I deſyred thre tymes of hym prayenge him earneſtly, that he wold helpe and ayde me, as all Chriſten Princes dutie is. To dryue the Turke out of Chriſtendome, and help and de<g ref="char:EOLunhyphen"/>fende the poore Chriſten, from his cruel tyranny. And ſo he made me an aunſwere that it was not poſ<g ref="char:EOLhyphen"/>ſyble for hym to helpe or ayde me any thynge, becauſe of his greate myſfortune that he hath had.</p>
+            <pb facs="tcp:23782:22"/>
+            <p>The ſecond tyme, I haue deſyred him of his ayde and helpe againſt the Turke, to the whiche he made aunſwere agayne, that he coulde not in ſo ſhort tyme delyuer ſuch a great Armye. The thyrd tyme, yet ones agayne when I ſhoulde tourney to Tunis I prayed hi to le<g ref="char:cmbAbbrStroke">̄</g>d me ſome of his ſhyps, &amp; he ma<g ref="char:EOLhyphen"/>de aunſwere y<hi rend="sup">e</hi> he mighte not do ſo becauſe he was at peace &amp; vnyed w<hi rend="sup">t</hi> Barbaroſſa &amp; become together fre<g ref="char:cmbAbbrStroke">̄</g>des. And aboue this I gat cer<g ref="char:EOLhyphen"/>teyne letters y<hi rend="sup">e</hi> was taken, which came fro<g ref="char:cmbAbbrStroke">̄</g> Barbaroſſa to y<hi rend="sup">e</hi> Fre<g ref="char:cmbAbbrStroke">̄</g>che king y<hi rend="sup">e</hi> which I haue yet in ſtore.</p>
+            <p>And all thys hathe he done be<g ref="char:EOLhyphen"/>cauſe he woulde haue Myllaene. Yet neuer theleſſe I deliuered his Chyldren that were pledges for hym, francke and free becauſe he ſhulde neuer deſyre agayne anye
+<pb facs="tcp:23782:22"/>tytyll to Myllane but be conten<g ref="char:EOLhyphen"/>ted that I myght quyetly kepe it wyth Italy and Florence.</p>
+            <p>And becauſe noma<g ref="char:cmbAbbrStroke">̄</g> ſhuld thin<g ref="char:EOLhyphen"/>ke that I haue conſentedde to do this out of any feare, he knoweth how that I ſent moore than. L. thouſande men of warre befoore Tunis, for to helpe a king to hys kyngdo<g ref="char:cmbAbbrStroke">̄</g>e againe which was dry<g ref="char:EOLhyphen"/>uen perforſe the route, &amp; ſhuld not I haue bene able to haue brought forth twyſe ſo manye men of Ar<g ref="char:EOLhyphen"/>mes to defende my ſelfe wythe all thoro we goddes helpe. And far<g ref="char:EOLhyphen"/>ther I ſaye. If it be ſo that the frenche Kynge wyl poynt to ma<g ref="char:EOLhyphen"/>ke Campe agaynſte Campe wepe<g ref="char:EOLunhyphen"/>ned or vnwepened by lande or by ſee that we may try it together I am and ſhalbe alwayes troye to performe it, becauſe that for hys
+<pb facs="tcp:23782:23"/>vnryghteouſenes ſake no moore ſymple &amp; innocente Chriſte<g ref="char:cmbAbbrStroke">̄</g> blood ſhuld be ſpylte. And becauſe he ſhulde take heare in good counſai<g ref="char:EOLunhyphen"/>le, &amp; make his aunſwere diſcrete<g ref="char:EOLhyphen"/>ly, therfore I gyue hym .xx. dayes truſe. And withe thys I make an ende ſayeng ones, twyſe &amp; thryſe, peace, peace, peace I deſyre. From that tyme forth the frenche kyng began agayne to burne, robbe, &amp; deſtroye the Emperoures land &amp; pryncipally y<hi rend="sup">e</hi> Dukedome of Sa<g ref="char:EOLhyphen"/>uoye, &amp; ſo ſone as the Emperoure harde that, he ſente hys warryers forth withal, agayne into hys la<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>de, &amp; hath almooſt marred and de<g ref="char:EOLunhyphen"/>ſtroyed al Pykardye, and toke &amp; wonne Guiſen, and He ſdyne and lykewyſe burnte the Cowne of ſint Poule, and murtheredde all that was therin. And lykewyſe
+<pb facs="tcp:23782:23"/>got the Emreroure Monſtruſt &amp; burnt all the Towne, and wende from thoſe to Terwin, to gyue aſ<g ref="char:EOLhyphen"/>ſaute therto but when the french kynge perceyued that his lande wente thus to wracke &amp; was de<g ref="char:EOLhyphen"/>ſtroyed, knowynge that the Em<g ref="char:EOLhyphen"/>petoure was a gentyl prynce and eaſy to entreate, deſyred of hym truſe, becauſe y<hi rend="sup">e</hi> warre ſhulde ſea<g ref="char:EOLhyphen"/>ſe incontinent, the whyche be ob<g ref="char:EOLhyphen"/>tayned, for the Souldyars were ſent home incontynent and truſe proclamedde, thorowe the whych many noble men deſyrynge and prayenge that ther myghte a pea<g ref="char:EOLunhyphen"/>ce be made, whyche was conclu<g ref="char:EOLhyphen"/>ded at Genua ſo ſtrong that men thought it would neuer haue be<g ref="char:EOLhyphen"/>ne broken, but a contynued for e<g ref="char:EOLhyphen"/>uer, wher vppon the Emperoure made and prepared al thinges re<g ref="char:EOLhyphen"/>dye
+<pb facs="tcp:23782:24"/>to ſet a freſhe vpon the Turke both by water and by lande, thyn kyng now that he had ſurely pea<g ref="char:EOLhyphen"/>ce for euer wyth the frenchkyng.</p>
+            <p>But the wynd turnedde yet a geane contrarye, for the frenche<g ref="char:EOLhyphen"/>kynge ſought with great dylyge<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ce to begyn a newe warre agayne and ſecreetly concluded wyth dy<g ref="char:EOLunhyphen"/>uers prynces and ſpecially with y<hi rend="sup">e</hi> Duke of Cleaue agaynſt the Em<g ref="char:EOLunhyphen"/>perour who<g ref="char:cmbAbbrStroke">̄</g> he had brought ther<g ref="char:EOLunhyphen"/>to with his flatterye &amp; fayre pro<g ref="char:EOLhyphen"/>myſes, and made hym to brynge in ſuddenlye hys warryars into Braband, which dyd there much harme thorowe a Captayne that they had named Martyne of Roſ<g ref="char:EOLunhyphen"/>ſen, whyche thoughte to deſtroye muche of the Emperours lande. But God whych defe<g ref="char:cmbAbbrStroke">̄</g>deth alway<g ref="char:EOLunhyphen"/>es the ryghteous, hath broken al
+<pb facs="tcp:23782:24"/>the aliances that was made and conſpyred againſt the Emperour ſo that nowe they that were the frenchekynges frendes haue lytil poure to helpe hym and ſomme be become hys enemyes.</p>
+            <p>Of the which no<g ref="char:cmbAbbrStroke">̄</g>ber the great Turke was one, w<hi rend="sup">t</hi> whome he had made the mooſt wycked &amp; vngod<g ref="char:EOLhyphen"/>lyeſt co<g ref="char:cmbAbbrStroke">̄</g>ſedaracio<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> euer was hard beyng betwene an Heathen Ty<g ref="char:EOLhyphen"/>raunt &amp; one y<hi rend="sup">e</hi> hath take<g ref="char:cmbAbbrStroke">̄</g> vpo<g ref="char:cmbAbbrStroke">̄</g> him to be the moſte Chriſten Kynge.</p>
+            <p>Therfore I feare y<hi rend="sup">e</hi> the curſe of God hange the ouer hym and hys realme which is ſpoke<g ref="char:cmbAbbrStroke">̄</g> by the pro<g ref="char:EOLhyphen"/>phet (ſayeng.) Wo be vnto them that go downe into Egypte, ſea<g ref="char:EOLhyphen"/>kynge for helpe of the Heathen, &amp; truſt in horſes, and confort them ſelues in Charettes, becauſe they be many, and in horſeme<g ref="char:cmbAbbrStroke">̄</g>, becauſe
+<pb facs="tcp:23782:25"/>they be luſty &amp; ſtronge. But they regard not the holy one of Iſrael nother do they ſeake helpe &amp; com<g ref="char:EOLhyphen"/>fort of hyme y<hi rend="sup">e</hi> is y<hi rend="sup">e</hi> almyghty god.</p>
+            <p>Therfore ſet vs al that wyl be Chriſten people, pray together to our Lord God, y<hi rend="sup">e</hi> he wyll preſerue the noble Emperour &amp; our mooſt victorius Kyng, w<hi rend="sup">t</hi> all ther noble Captaynes and Soldiars w<hi rend="sup">t</hi> all other theyr ſubiectes that it wyl pleaſe y<hi rend="sup">t</hi> lyuynge God to gyue the<g ref="char:cmbAbbrStroke">̄</g> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ctory ouer ther enemyes, y<hi rend="sup">e</hi> we may haue a ſpedy ende of y<hi rend="sup">e</hi> warre and y<hi rend="sup">e</hi> we maye lyue in peace &amp; reſt al the dayes of our lyfe after, and alſo al Chriſtendome the whyche graunt to vs the Father, Sonne and holy Ghoſt. So be it.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London in Botulphe lane &amp; tranſlated out of Doutche into Englyſhe or Thou Mayler.</p>
+            <pb facs="tcp:23782:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
